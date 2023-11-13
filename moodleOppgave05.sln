@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moodleOppgave05", "moodleOppgave05\moodleOppgave05.csproj", "{629D5697-349D-43D5-9F2E-267E6CD7883E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629D5697-349D-43D5-9F2E-267E6CD7883E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629D5697-349D-43D5-9F2E-267E6CD7883E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629D5697-349D-43D5-9F2E-267E6CD7883E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629D5697-349D-43D5-9F2E-267E6CD7883E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {390BF4CA-2407-4D31-93EF-835BF45152C5}
+	EndGlobalSection
+EndGlobal
